@@ -1,3 +1,8 @@
+---
+lang: en-US
+title: Updating to 4.51
+---
+
 ## Required Reading
 
 The [etaHEN](https://github.com/LightningMods/etaHEN) jailbreak is only compatible with firmware versions from 3.00 to 4.51. As a result, older firmware versions must update manually in order to use the exploit.
@@ -57,7 +62,3 @@ Your PS5 should restart to complete the update. Once finished, you should boot b
 1. Open the Settings application
 1. Navigate to the "Network" section and open it
 1. To use network functionality, enable "Connect to the Internet"
-
-## [↩ Get Started](../README.md)
-
-## [↪ Installing etaHEN](installing-etahen.md)

@@ -27,7 +27,7 @@ Thoroughly read all of the introductory pages (including this one!) before proce
 
 ## What is jailbreaking?
 
-Jailbreaking is a term used to describe the process that allows you to truly unlock the potential of your PS4 console.
+Jailbreaking is a term used to describe the process that allows you to truly unlock the potential of your PS5 console.
 
 Jailbreaking is free and easy on most devices.
 

@@ -1,3 +1,6 @@
+<link rel="shortcut icon" type="image/x-icon" 
+      href="{{ "images/favicon.ico"  | absolute_url }}">
+
 ## PS5 Jailbreak Guide
 
 A complete PS5 modding guide, from stock to etaHEN.

@@ -18,7 +18,7 @@ module.exports = {
   	toggleDarkMode: "Toggle dark mode",
   	toggleSidebar: "Toggle sidebar",
     
-    discordNoticeText: 'For support in English, ask for help on the <a href="https://discord.com/invite/2ApmZKs" target="_blank">SCE Party</a> Discord Server.',
+    discordNoticeText: 'For support in English, ask for help on the [SCE Party](https://discord.com/invite/2ApmZKs) Discord Server.',
       
     navbar: require('./navbar'),
     sidebar: require('./sidebar'),

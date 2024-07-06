@@ -9,7 +9,7 @@ on:
 
 jobs:
   docs:
-    runs-on: macos-14-large
+    runs-on: macos-latest
 
     steps:
       - uses: actions/checkout@v2
@@ -22,7 +22,7 @@ jobs:
         uses: actions/setup-node@v1
         with:
           # choose node.js version to use
-          node-version: '14'
+          node-version: '21'
 
       # install dependencies if the cache did not hit
       - name: Install dependencies

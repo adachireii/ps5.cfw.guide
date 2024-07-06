@@ -1,3 +1,5 @@
+ <link rel="shortcut icon" type="image/x-icon" href="images/favicon.ico">
+
 ## Required Reading
 
 The [etaHEN](https://github.com/LightningMods/etaHEN) jailbreak is only compatible with firmware versions from 3.00 to 4.51. As a result, older firmware versions must update manually in order to use the exploit.

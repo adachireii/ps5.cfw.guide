@@ -1,5 +1,4 @@
-<link rel="shortcut icon" type="image/x-icon" 
-      href="{{ "images/favicon.ico"  | absolute_url }}">
+ <link rel="shortcut icon" type="image/x-icon" href="images/favicon.ico">
 
 ## PS5 Jailbreak Guide
 

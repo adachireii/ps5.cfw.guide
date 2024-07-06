@@ -1,3 +1,5 @@
+ <link rel="shortcut icon" type="image/x-icon" href="images/favicon.ico">
+
 ### Installing etaHEN (Method 1)
 
 1. Open the Setting menu on your PS5

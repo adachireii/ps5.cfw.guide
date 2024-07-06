@@ -1,3 +1,5 @@
+ <link rel="shortcut icon" type="image/x-icon" href="images/favicon.ico">
+
 ### Installing itemzflow
 
 ## What you need

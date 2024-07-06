@@ -3,7 +3,7 @@
         "@vuepress/bundler-vite": "2.0.0-beta.27",
         "yarn": "^1.22.17"
     },
-    "name": "ps4.cfw.guide",
+    "name": "ps5.cfw.guide",
     "version": "1.0.0",
     "main": "index.js",
     "repository": "github.com/cfw-guide/ps4.cfw.guide",

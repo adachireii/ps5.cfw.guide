@@ -3,8 +3,8 @@ module.exports = {
   
   locales: {
     lang: 'en-US',
-    title: 'PS4 Guide',
-    description: 'A very much incomplete PS4 modding guide, from stock to jailbroken.',
+    title: 'PS5 Guide',
+    description: 'A very much incomplete PS5 modding guide, from stock to jailbroken.',
   },
   
   themeConfig: {

@@ -1,4 +1,7 @@
-### Installing itemzflow
+---
+lang: en-US
+title: Installing itemzflow
+---
 
 ## What you need
 
@@ -17,8 +20,4 @@
 1. From here, go to Package Installer and install the itemzflow package file
     - Repeat these steps with any other PS5 Homebrew app if you wish
 
-![A screenshot of itemzflow running on a PS5](../images/itemzflow.png)
-
-## [↩ Get Started](../README.md)
-
-## [↩ Installing etaHEN](installing-etahen.md)
+![A screenshot of itemzflow running on a PS5](/assets/images/itemzflow.png)

@@ -4,21 +4,25 @@
 
 ## PS5 Jailbreak Guide
 
-A complete PS5 modding guide, from stock to etaHEN.
+A complete PS5 modding guide, from stock to jailbroken.
 
-![A screenshot of PS5's Debug Settings](images/ps5debugreadme.png)
+## Running the site locally
 
-## Version Table
+This requires the following installed to your system:
+- [Node.js v12+](https://nodejs.org/)
+- [Yarn v1 classic](https://classic.yarnpkg.com/en/) (npm install --global yarn)
 
-| From | To | Related tutorial | Extra tutorial |
-| ---- | -- | ---------------- | -------------- |
-| 1.00 | 4.50 | [Updating to 4.51](docs/updating-to-4.51.md) | --- |
-| 4.51 | 4.51 | [Installing etaHEN](docs/installing-etahen.md) | [Installing itemzflow](docs/installing-itemzflow.md) |
+Git clone the repository
+```
+git clone --recurse-submodules <repo url>
+```
 
-## Credits
-
-See [CREDITS.md](CREDITS.md)
-
-## Contributing
-
-See [CONTRIBUTING.md](CONTRIBUTING.md)
+To test the website locally, simply run the following commands:
+```
+yarn install
+```
+to install all packages required by the website (VuePress v2 and plugins), then
+```
+yarn docs:dev
+```
+to build the Markdown files into HTML and start a testing webserver on http://127.0.0.1:8080.

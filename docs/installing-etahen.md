@@ -1,4 +1,9 @@
-### Installing etaHEN (Method 1)
+---
+lang: en-US
+title: Installing etaHEN
+---
+
+### Installing etaHEN
 
 1. Open the Setting menu on your PS5
 1. Click on User's Guide, Health & Safety, and Other Information > User's Guide > User's Guide
@@ -12,7 +17,7 @@
     - If you see the "There's not enough free system memory." popup, simply click OK and then retry the jailbreak
 1. Once the exploit is successful, click on the etaHEN option at the top left
 
-### Installing etaHEN (Method 2)
+### Installing etaHEN (Alternative)
 
 1. Open the Setting menu on your PS5
 1. Open the Network settings page
@@ -30,10 +35,6 @@
     - If you see the "There's not enough free system memory." popup, simply click OK and then retry the jailbreak
 1. Once the exploit is successful, click on the etaHEN option at the top left
 
-You should see a popup on your PS5 showing the FTP, Klog and ELF Loader ports, as well as the etaHEN version. This means that the jailkbreak has been successful. In the Settings application, you should be able to see Debug Settings at the bottom. If you can't see this, try running the exploit again.
+You should see a popup on your PS5 showing the FTP, Klog and ELF Loader ports, as well as the etaHEN version. This means that the jailbreak has been successful. In the Settings application, you should be able to see Debug Settings at the bottom. If you can't see this, try running the exploit again.
 
-![A screenshot of Debug Settings at the bottom of the Settings application](../images/ps5debugetahen.jpg)
-
-## [↩ Updating to 4.51](updating-to-4.51.md)
-
-## [↪ Installing itemzflow](installing-itemzflow.md)
+![A screenshot of Debug Settings at the bottom of the Settings application](/assets/images/ps5debugetahen.jpg)
